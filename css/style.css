@@ -1,0 +1,17 @@
+body{
+    background-color: #FFFFDE;
+    font-size: 18px;
+}
+h1, h2, h3, h4{
+    color: #FF7396;
+}
+input, textarea{
+    font: inherit;
+}
+hr{
+    width:5%;
+    border-style: dotted none none;
+    border-width: 10px;
+    border-color: #afcdc3;
+    
+}
